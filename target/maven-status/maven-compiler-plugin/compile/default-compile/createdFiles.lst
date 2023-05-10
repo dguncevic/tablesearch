@@ -1,0 +1,8 @@
+com\filip\tablehw\Database.class
+com\filip\tablehw\Employee.class
+com\filip\tablehw\City.class
+module-info.class
+com\filip\tablehw\PrimaryController.class
+com\filip\tablehw\App.class
+com\filip\tablehw\Role.class
+com\filip\tablehw\Status.class
